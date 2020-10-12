@@ -1,0 +1,13 @@
+h1{
+    padding-top: 10px;
+}
+header{
+
+    width: 100%;
+    background-image: url(../image/fondo.jpg)
+
+}
+menu{
+    background-repeat: no-repeat;
+    color: blueviolet;
+}
